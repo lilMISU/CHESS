@@ -1,0 +1,11 @@
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\bin\Debug\CHESS.exe.config
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\bin\Debug\CHESS.exe
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\bin\Debug\CHESS.pdb
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\obj\Debug\CHESS_SERVER.csproj.AssemblyReference.cache
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\obj\Debug\CHESS.Properties.Resources.resources
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\obj\Debug\CHESS_SERVER.csproj.GenerateResource.cache
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\obj\Debug\CHESS_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\obj\Debug\CHESS.exe
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\obj\Debug\CHESS.pdb
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\obj\Debug\CHESS.Server.resources
+C:\Users\paulp\Desktop\chess_server\CHESS\CHESS\obj\Debug\CHESS_SERVER.csproj.SuggestedBindingRedirects.cache
